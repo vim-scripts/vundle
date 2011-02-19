@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3458
+
+Vundle allows to:
+
+    * keep track and configure your scripts right in .vimrc
+    * install configured scripts (aka bundle)
+    * update configured scripts
+    * search all available vim scripts by name
+    * clean unused scripts up
+
+Also as a bonus Vundle:
+
+    * manages runtime path of your installed scripts
+    * regenerates helptag atomatically
+
